@@ -1,7 +1,7 @@
-from python_basic.zad_1 import print_names
-from python_basic.zad_2 import multiply_by_two
-from python_basic.zad_3 import print_even
-from python_basic.zad_4 import print_every_other_element
+from zad_1 import print_names
+from zad_2 import multiply_by_two
+from zad_3 import print_even
+from zad_4 import print_every_other_element
 
 print('Exercise 1')
 names = ['Asia', 'Kasia', 'Tomek', 'Marcin', 'Piotrek']
