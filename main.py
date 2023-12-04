@@ -6,7 +6,7 @@ from zad_5 import s_func
 from zad_6 import func
 
 print('Exercise 1')
-string = return_full_name('Mikolaj', 'Bialas')
+string = return_full_name('Kacper', 'Kubanski')
 print(string)
 print('-'*30)
 
