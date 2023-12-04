@@ -1,9 +1,9 @@
-from functions.zad_1 import return_full_name
-from functions.zad_2 import multipy
-from functions.zad_3 import is_even
-from functions.zad_4 import check_numbers
-from functions.zad_5 import s_func
-from functions.zad_6 import func
+from zad_1 import return_full_name
+from zad_2 import multipy
+from zad_3 import is_even
+from zad_4 import check_numbers
+from zad_5 import s_func
+from zad_6 import func
 
 print('Exercise 1')
 string = return_full_name('Mikolaj', 'Bialas')
