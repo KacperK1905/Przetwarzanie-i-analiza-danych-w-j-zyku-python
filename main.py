@@ -1,10 +1,10 @@
-from classes.Student import Student
-from classes.Library import Library
-from classes.Book import Book
-from classes.Employee import Employee
-from classes.Order import Order
-from classes.House import House
-from classes.Flat import Flat
+from Student import Student
+from Library import Library
+from Book import Book
+from Employee import Employee
+from Order import Order
+from House import House
+from Flat import Flat
 
 student_01 = Student('Maciek', [80, 100, 70])
 student_02 = Student('Kamil', [20, 30, 15])
