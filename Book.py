@@ -1,4 +1,4 @@
-from classes.Library import Library
+from Library import Library
 
 
 class Book:

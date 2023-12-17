@@ -1,6 +1,6 @@
 from typing import List
-from classes.Employee import Employee
-from classes.Book import Book
+from Employee import Employee
+from Book import Book
 
 
 class Order:

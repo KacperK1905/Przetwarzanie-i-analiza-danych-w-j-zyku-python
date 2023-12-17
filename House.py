@@ -1,4 +1,4 @@
-from classes.Property import Property
+from Property import Property
 
 
 class House(Property):
