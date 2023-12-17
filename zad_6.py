@@ -1,7 +1,4 @@
-from typing import List
-
-
-def func(first_list: List[int], sec_list: List[int]) -> List[int]:
+def func(first_list: list, sec_list: list) -> list:
     connected_list = first_list + sec_list
     without_duplicate_list = []
     power_3_list = []
